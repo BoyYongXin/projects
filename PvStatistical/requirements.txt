@@ -1,5 +1,5 @@
 aiofiles==0.5.0
-fastapi==0.58.0
+fastapi==0.65.2
 svgwrite==1.4
 uvicorn==0.11.5
 uvloop==0.14.0
